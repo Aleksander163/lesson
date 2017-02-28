@@ -9,7 +9,7 @@ public class dick {
         r.setVisible(true);
         r.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         r.setSize(200, 300);
-        r.setResizable(false);
+        //r.setResizable(false);
         r.setLocationRelativeTo(null);
     }
 
